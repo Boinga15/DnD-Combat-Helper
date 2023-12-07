@@ -1,0 +1,15 @@
+Put all of your player characters into the PCs file in the following format:
+
+[NAME]|[INITBONUS]|[ADVANTAGE]
+
+[NAME] should be replaced with the character's name.
+
+[INITBONUS] should be replaced with the character's initiative bonus.
+
+[ADVANTAGE] should be replaced with "a" for advantage on initiative rolls, or a "d" for disadvantage on initiative rolls. Anything else to say this character has got no advantage or disadvantage.
+
+Seperate each character on their own line like so:
+
+[NAME]|[INITBONUS]|[ADVANTAGE]
+[NAME]|[INITBONUS]|[ADVANTAGE]
+[NAME]|[INITBONUS]|[ADVANTAGE]
